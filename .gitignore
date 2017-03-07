@@ -3,6 +3,5 @@
 *.swp
 jz_notes/
 .ipynb_checkpoints/
-*.csv
 *.tsv
 .cache/
