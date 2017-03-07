@@ -3,7 +3,6 @@
 *.swp
 jz_notes/
 .ipynb_checkpoints/
-data/
 *.csv
 *.tsv
 .cache/
